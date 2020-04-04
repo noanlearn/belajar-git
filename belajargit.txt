@@ -4,8 +4,14 @@ Nama pena saya adalah NOAN.
 
 Ini adalah perubahan dari branch fitur_pertama.
 
+<<<<<<< HEAD
 Ini fitur_pertama.
 
 Test bentrok branch.
 
 fitur_pertama itu child branch.
+=======
+Test bentrok branch.
+
+Master itu main branch.
+>>>>>>> master
