@@ -1,3 +1,5 @@
 Saya sedang belajar GIT.
 
 Nama pena saya adalah NOAN.
+
+Ini adalah perubahan dari branch fitur_pertama.
