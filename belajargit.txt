@@ -7,3 +7,5 @@ Ini adalah perubahan dari branch fitur_pertama.
 Ini fitur_pertama.
 
 Test bentrok branch.
+
+fitur_pertama itu child branch.
