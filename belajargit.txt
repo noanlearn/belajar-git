@@ -5,3 +5,5 @@ Nama pena saya adalah NOAN.
 Ini adalah perubahan dari branch fitur_pertama.
 
 Test bentrok branch.
+
+Master itu main branch.
